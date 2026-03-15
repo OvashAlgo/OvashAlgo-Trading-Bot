@@ -1,4 +1,4 @@
-<h1>OvashAlgo-Trading-Bot
+<h1>OvashAlgo-Trading-Bot</h1>
 
 Algorithmic Trading Bot using Python and MT4
 
